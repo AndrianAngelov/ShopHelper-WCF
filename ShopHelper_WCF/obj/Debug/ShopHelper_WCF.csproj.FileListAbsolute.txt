@@ -1,0 +1,10 @@
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\shophelperwcfanddatabase\ShopHelper_WCF\bin\ShopHelper_WCF.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\shophelperwcfanddatabase\ShopHelper_WCF\bin\ShopHelper_WCF.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\shophelperwcfanddatabase\ShopHelper_WCF\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\shophelperwcfanddatabase\ShopHelper_WCF\obj\Debug\ShopHelper_WCF.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\shophelperwcfanddatabase\ShopHelper_WCF\obj\Debug\ShopHelper_WCF.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\SourceCodeGitHub\ShopHelper-WCF\ShopHelper_WCF\bin\ShopHelper_WCF.dll
+D:\new age\1 TELERIK\JobAttack\REAL\SourceCodeGitHub\ShopHelper-WCF\ShopHelper_WCF\bin\ShopHelper_WCF.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\SourceCodeGitHub\ShopHelper-WCF\ShopHelper_WCF\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\SourceCodeGitHub\ShopHelper-WCF\ShopHelper_WCF\obj\Debug\ShopHelper_WCF.dll
+D:\new age\1 TELERIK\JobAttack\REAL\SourceCodeGitHub\ShopHelper-WCF\ShopHelper_WCF\obj\Debug\ShopHelper_WCF.pdb
